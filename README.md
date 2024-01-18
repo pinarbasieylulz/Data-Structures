@@ -1,2 +1,1 @@
-"# Data-Structures" 
-"# Data-Structures" 
+2023-2024 Fall Semester Data Structures Course homeworks.
