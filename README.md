@@ -1,1 +1,1 @@
-2023-2024 Fall Semester Data Structures Course homeworks.
+2023-2024 Fall&Spring Semester Data Structures homeworks.
